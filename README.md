@@ -6,6 +6,6 @@
  - Used JavaScript, HTML, and CSS to develop the app.
 ### Deployment
  - The planner app is deployed using Netlify.
- - [Click here to view the deployed app](https://pritam-planner-app.netlify.app/).
+ - [Click here to view the deployed app](https://pritam-planner-app.web.app/).
 
 
